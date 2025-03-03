@@ -4,6 +4,7 @@ import 'package:mycountermvvm/services/counter_service.dart';
 
 abstract class CounterRepository {
 
+
     CounterRepository({
 
     required CounterService service,
